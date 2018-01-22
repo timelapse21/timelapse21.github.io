@@ -1,23 +1,67 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516572308241">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516644264168">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="435352445" ref="index:contact"/>
-    <file name="index.css" crc="4224995835" ref="index"/>
-    <file name="contact.css" crc="3973625392" ref="contact"/>
+    <file name="master_a-master.css" crc="481542600" ref="index:contact:about:services:portfolio"/>
+    <file name="index.css" crc="38778835" ref="index"/>
+    <file name="contact.css" crc="4154263557" ref="contact"/>
+    <file name="about.css" crc="4075964441" ref="about"/>
+    <file name="services.css" crc="4154263557" ref="services"/>
+    <file name="portfolio.css" crc="4252783728" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="173813457" ref="portfolio"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
-    <file name="museutils.js" crc="3803043152" ref="index:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:contact"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:contact"/>
-    <file name="require.js" crc="4157109226" ref="index:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:services:portfolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:about:services:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:services:portfolio"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact:about:services:portfolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:about:services:portfolio"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:about:services:portfolio"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact:about:services:portfolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:services:portfolio"/>
   </folder>
   <folder name="images">
-    <file name="amsterdam.jpg" crc="4177008286" seo="true" ref="index">
+    <file name="adirondack.jpg" crc="3913272088" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="kingston1.jpg" crc="505294975" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="kingston2.jpg" crc="196231224" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="real.png" crc="4017771386" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="youtube_icon_full-color.svg" crc="261441733" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="youtube_icon_full-color_poster_.png" crc="4137989740" ref="portfolio"/>
+    <file name="tim edited 1-2f2-2f17.png" crc="4269813639" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="swirl (1).png" crc="3983581725" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drone.jpg" crc="4253539697" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="thingiverse_logo.png" crc="4263122184" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="measuring spoons v4.png" crc="334480606" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="page-t.png" crc="4147733713" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="skyblade.png" crc="4112050689" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4239318642" seo="true" mt="1516572270947" redirect="true"/>
-  <file name="contact.html" crc="3838818759" seo="true" mt="1516571422899" redirect="true"/>
+  <file name="index.html" crc="77638525" seo="true" mt="1516643976351" redirect="true"/>
+  <file name="contact.html" crc="137495355" seo="true" mt="1516643976205" redirect="true"/>
+  <file name="about.html" crc="4054370461" seo="true" mt="1516643976353" redirect="true"/>
+  <file name="services.html" crc="3940707698" seo="true" mt="1516643976205" redirect="true"/>
+  <file name="portfolio.html" crc="133514743" seo="true" mt="1516644168280" redirect="true"/>
 </manifest>
