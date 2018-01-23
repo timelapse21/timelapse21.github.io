@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516644264168">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516709028758">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="481542600" ref="index:contact:about:services:portfolio"/>
-    <file name="index.css" crc="38778835" ref="index"/>
+    <file name="index.css" crc="3991656122" ref="index"/>
     <file name="contact.css" crc="4154263557" ref="contact"/>
     <file name="about.css" crc="4075964441" ref="about"/>
     <file name="services.css" crc="4154263557" ref="services"/>
-    <file name="portfolio.css" crc="4252783728" ref="portfolio"/>
+    <file name="portfolio.css" crc="88376667" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="173813457" ref="portfolio"/>
   </folder>
   <folder name="scripts">
@@ -19,6 +19,10 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact:about:services:portfolio"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:portfolio"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:services:portfolio"/>
+    <file name="webpro.js" crc="242022427" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
   </folder>
   <folder name="images">
     <file name="adirondack.jpg" crc="3913272088" ref="index">
@@ -34,6 +38,7 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="youtube_icon_full-color.svg" crc="261441733" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="youtube_icon_full-color_poster_.png" crc="4137989740" ref="portfolio"/>
@@ -59,9 +64,9 @@
       <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="77638525" seo="true" mt="1516643976351" redirect="true"/>
+  <file name="index.html" crc="3760810168" seo="true" mt="1516709018616" redirect="true"/>
   <file name="contact.html" crc="137495355" seo="true" mt="1516643976205" redirect="true"/>
   <file name="about.html" crc="4054370461" seo="true" mt="1516643976353" redirect="true"/>
   <file name="services.html" crc="3940707698" seo="true" mt="1516643976205" redirect="true"/>
-  <file name="portfolio.html" crc="133514743" seo="true" mt="1516644168280" redirect="true"/>
+  <file name="portfolio.html" crc="486104836" seo="true" mt="1516709004587" redirect="true"/>
 </manifest>
