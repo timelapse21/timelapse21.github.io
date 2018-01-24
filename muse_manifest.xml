@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516756315608">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="timlapp.tk" resolutions="1x" timestamp="1516756671565">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="23639017" ref="index:contact:about:services:portfolio:thank-you"/>
-    <file name="index.css" crc="3931650738" ref="index"/>
-    <file name="contact.css" crc="370460497" ref="contact"/>
-    <file name="about.css" crc="2345880" ref="about"/>
-    <file name="services.css" crc="307793188" ref="services"/>
-    <file name="portfolio.css" crc="3878534085" ref="portfolio"/>
+    <file name="index.css" crc="3809107785" ref="index"/>
+    <file name="contact.css" crc="4084882967" ref="contact"/>
+    <file name="about.css" crc="3960368361" ref="about"/>
+    <file name="services.css" crc="101720848" ref="services"/>
+    <file name="portfolio.css" crc="3956610866" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="3986635252" ref="portfolio"/>
-    <file name="thank-you.css" crc="212191554" ref="thank-you"/>
+    <file name="thank-you.css" crc="4099181728" ref="thank-you"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:services:portfolio:thank-you"/>
@@ -77,11 +77,15 @@
     <file name="(50).jpg" crc="110038490" ref="thank-you">
       <caption webpage="thank-you" alt=""/>
     </file>
+    <file name="tl.svg" crc="4272855379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tl_poster_.png" crc="3995383649" ref="index"/>
   </folder>
-  <file name="index.html" crc="92816987" seo="true" mt="1516756197343" redirect="true"/>
-  <file name="contact.html" crc="3923220569" seo="true" mt="1516755397846" redirect="true"/>
-  <file name="about.html" crc="4212825111" seo="true" mt="1516756235929" redirect="true"/>
-  <file name="services.html" crc="443601736" seo="true" mt="1516755397846" redirect="true"/>
-  <file name="portfolio.html" crc="3863188796" seo="true" mt="1516755397846" redirect="true"/>
-  <file name="thank-you.html" crc="4252694284" seo="true" mt="1516755397846" redirect="true"/>
+  <file name="index.html" crc="533170397" seo="true" mt="1516756623743" redirect="true"/>
+  <file name="contact.html" crc="4041162895" seo="true" mt="1516756606254" redirect="true"/>
+  <file name="about.html" crc="203586126" seo="true" mt="1516756606254" redirect="true"/>
+  <file name="services.html" crc="4092177259" seo="true" mt="1516756606254" redirect="true"/>
+  <file name="portfolio.html" crc="118710328" seo="true" mt="1516756606254" redirect="true"/>
+  <file name="thank-you.html" crc="76207066" seo="true" mt="1516756606254" redirect="true"/>
 </manifest>
