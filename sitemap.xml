@@ -54,4 +54,10 @@
       <image:loc>http://timlapp.tk/images/skyblade.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://timlapp.tk/thank-you.html</loc>
+    <lastmod>2018-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
