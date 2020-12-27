@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609108741180">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609109042295">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="362196397" ref="index"/>
@@ -33,8 +33,8 @@
       <caption webpage="patsy.products" alt=""/>
     </file>
     <file name="u4295-4.png" crc="4051273895" ref="patsy.products"/>
-    <file name="u3848-18.png" crc="459547170" ref="index"/>
+    <file name="u3848-18.png" crc="4198205648" ref="index"/>
   </folder>
-  <file name="index.html" crc="532202105" seo="true" mt="1609108568072" redirect="true"/>
-  <file name="patsy.products.html" crc="120415334" seo="true" mt="1609108657209" redirect="true"/>
+  <file name="index.html" crc="488059853" seo="true" mt="1609108926459" redirect="true"/>
+  <file name="patsy.products.html" crc="4164676638" seo="true" mt="1609109030376" redirect="true"/>
 </manifest>
