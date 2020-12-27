@@ -61,19 +61,19 @@ $form = array(
 		'custom_U4287' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Custom',
+			'label' => 'Zodiac sign',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Custom\' is required.'
+				'required' => 'Field \'Zodiac sign\' is required.'
 			)
 		),
 		'custom_U4291' => array(
 			'order' => 5,
 			'type' => 'string',
-			'label' => 'Custom',
+			'label' => 'Firstborn child\'s name',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Custom\' is required.'
+				'required' => 'Field \'Firstborn child\'s name\' is required.'
 			)
 		)
 	)
