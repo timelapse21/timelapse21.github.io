@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609112816463">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609113226544">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4147133243" ref="index"/>
     <file name="patsy_products.css" crc="4264460031" ref="patsy.products"/>
-    <file name="patsy_info.css" crc="4168444900" ref="patsy.info"/>
+    <file name="patsy_info.css" crc="328233809" ref="patsy.info"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:patsy.products:patsy.info"/>
@@ -36,9 +36,9 @@
     <file name="u4295-4.png" crc="4051273895" ref="patsy.products"/>
     <file name="u3848-18.png" crc="4198205648" ref="index"/>
     <file name="u4393-4.png" crc="215155215" ref="index"/>
-    <file name="u4461-20.png" crc="6622577" ref="patsy.info"/>
+    <file name="u4461-20.png" crc="344681278" ref="patsy.info"/>
   </folder>
   <file name="index.html" crc="4200640495" seo="true" mt="1609112042732" redirect="true"/>
   <file name="patsy.products.html" crc="4127074534" seo="true" mt="1609112042733" redirect="true"/>
-  <file name="patsy.info.html" crc="3989336967" seo="true" mt="1609112807646" redirect="true"/>
+  <file name="patsy.info.html" crc="70253176" seo="true" mt="1609113220781" redirect="true"/>
 </manifest>
