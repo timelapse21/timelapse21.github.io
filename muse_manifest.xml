@@ -1,24 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609109042295">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patsy.club" resolutions="1x" timestamp="1609112816463">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="362196397" ref="index"/>
-    <file name="patsy_products.css" crc="198570977" ref="patsy.products"/>
+    <file name="index.css" crc="4147133243" ref="index"/>
+    <file name="patsy_products.css" crc="4264460031" ref="patsy.products"/>
+    <file name="patsy_info.css" crc="4168444900" ref="patsy.info"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:patsy.products"/>
-    <file name="museutils.js" crc="340535759" ref="index:patsy.products"/>
-    <file name="whatinput.js" crc="86476730" ref="index:patsy.products"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:patsy.products"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:patsy.products"/>
-    <file name="require.js" crc="7928878" ref="index:patsy.products"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:patsy.products"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:patsy.products:patsy.info"/>
+    <file name="museutils.js" crc="340535759" ref="index:patsy.products:patsy.info"/>
+    <file name="whatinput.js" crc="86476730" ref="index:patsy.products:patsy.info"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:patsy.products:patsy.info"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:patsy.products:patsy.info"/>
+    <file name="require.js" crc="7928878" ref="index:patsy.products:patsy.info"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:patsy.products:patsy.info"/>
     <file name="webpro.js" crc="4059564322" ref="index:patsy.products"/>
     <file name="form_check.php" crc="4020933626" ref="index"/>
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
     <file name="form-u4173.php" crc="3954411457" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:patsy.products"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:patsy.products:patsy.info"/>
     <file name="form-u4270.php" crc="4107963028" ref="patsy.products"/>
   </folder>
   <folder name="images">
@@ -34,7 +35,10 @@
     </file>
     <file name="u4295-4.png" crc="4051273895" ref="patsy.products"/>
     <file name="u3848-18.png" crc="4198205648" ref="index"/>
+    <file name="u4393-4.png" crc="215155215" ref="index"/>
+    <file name="u4461-20.png" crc="6622577" ref="patsy.info"/>
   </folder>
-  <file name="index.html" crc="488059853" seo="true" mt="1609108926459" redirect="true"/>
-  <file name="patsy.products.html" crc="4164676638" seo="true" mt="1609109030376" redirect="true"/>
+  <file name="index.html" crc="4200640495" seo="true" mt="1609112042732" redirect="true"/>
+  <file name="patsy.products.html" crc="4127074534" seo="true" mt="1609112042733" redirect="true"/>
+  <file name="patsy.info.html" crc="3989336967" seo="true" mt="1609112807646" redirect="true"/>
 </manifest>

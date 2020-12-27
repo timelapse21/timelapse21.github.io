@@ -15,4 +15,10 @@
       <image:loc>http://patsy.club/images/20-p6200564.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://patsy.club/patsy.info.html</loc>
+    <lastmod>2020-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
